@@ -6,6 +6,10 @@
 ## Vue d'ensemble du projet
 Ce référentiel contient une application mobile complète développée avec Flutter qui interagit avec un backend Node.js via des API RESTful. L'application permet aux utilisateurs de parcourir, créer, mettre à jour et supprimer du contenu multimédia (films, séries et anime) avec une interface intuitive et réactive, implémentant ainsi une fonctionnalité CRUD complète.
 
+## Travaux Pratiques
+- **TP1** : EL MAHDI BOUDERNA TP1 - Gestion d'un Système de Commandes en Dart
+- **TP2** : EL MAHDI BOUDERNA/show-app-backend - Application Flutter avec backend Node.js
+
 ## Fonctionnalités implémentées
 
 ### 1. Page de mise à jour des shows
