@@ -69,5 +69,5 @@ Ce référentiel contient une application mobile complète développée avec Flu
 
 1. Cloner le référentiel :
 ```bash
-git clone https://github.com/elmahdi-bouderna/showapp-flutter.git
-cd showapp-flutter
+git clone https://github.com/elmahdi-bouderna/mobile-flutter-td-tp.git
+cd mobile-flutter-td-tp
